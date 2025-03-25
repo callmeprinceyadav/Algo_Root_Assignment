@@ -30,5 +30,3 @@ A simple full-stack task management application built with Node.js, Express, and
   - `curl -X GET http://localhost:3001/api/tasks`
   - `curl -X POST -H "Content-Type: application/json" -d '{"title":"Test"}' http://localhost:3001/api/tasks`
 
-## Screenshots
-(Include screenshots of the task list, create form, and edit form here.)
